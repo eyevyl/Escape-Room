@@ -3,7 +3,7 @@ import java.util.List; //import list class
 import java.util.Scanner; //import scanner class
 import java.util.Random; //import random class
 
-class Main {
+class EscapeRoom {
   public static void main(String[] args) {
     String[] highScores = {"0", "0", "0", "0", "0", "0"}; //initialize an array to hold the six highest scores and another array to hold their corresponding players
     System.out.println("Hi there! We advise you to enlarge your console and zoom out for the best experience. Thank you!!!");    
