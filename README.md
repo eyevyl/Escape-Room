@@ -2,7 +2,7 @@
 
 For this assignment, we have been tasked with making a game with hangman as the basis of its idea. The main issue revolving around this assignment is that it was to include a fun, creative aspect to it. To do this, we have decided to model our game around an escape room; the user has to solve different puzzles in order to achieve more attempts at the final hangman, which will grant the user the secret word needed to escape the room.  Each room will have a creative theme associated with it to add a whimsical lighthearted feel to this game. There will be 3 rooms in total, one being jungle themed, the second being candy themed, and the last being space themed. Each room is to have different items, themed according to the room, that are to be examined by the user. These items will each pose the user with different kinds of fun and creative puzzles, each of which, if solved, will grant the user an extra guess at the final word. For visuals, we have decided to use ASCII art, due to its low level of complexity yet effective results. As an added bonus, we have also decided to include a scoreboard that will keep track of the previous 6 scores, and rank them from highest to lowest. 
 
-## Installation
+### Installation
 
 1. Open Main.java
 2. Copy and paste the contents of the file onto a Java IDE
