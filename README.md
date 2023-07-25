@@ -4,9 +4,10 @@ For this assignment, we have been tasked with making a game with hangman as the 
 
 ### Installation
 
-1. Open Main.java
+1. Open EscapeRoom.java
 2. Copy and paste the contents of the file onto a Java IDE
 3. Click "Run" and allow the code to compile
+4. Zoom out of fullscreen so that the ASCII art may be displayed fully
 
 ### Rules
 
