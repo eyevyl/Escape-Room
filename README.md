@@ -8,7 +8,7 @@ For this assignment, we have been tasked with making a game with hangman as the 
 2. Copy and paste the contents of the file onto a Java IDE
 3. Click "Run" and allow the code to compile
 
-# Rules
+### Rules
 
 1. Dialogue will guide players through an escape room-based game, with a final hangman in the end to escape
 2. Choose a door: The player will be prompted to enter 1 of 3 rooms; the Jungle Room, the Candy Room, and the Space Room
@@ -17,7 +17,7 @@ The player has the choice to attempt to get the right answer as many times as ne
 4. Explore the door; this will grant players access to the final hangman to escape the room
 5. Once completed, the player’s score will be displayed. Play as many times as wanted, explore different rooms, and compete with yourself with a score-leaderboard
 
-# Controls
+### Controls
 
 This story-based game only requires input from the player in forms of words, letters, or numbers that need to be entered.
 
